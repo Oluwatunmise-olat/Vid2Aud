@@ -3,7 +3,6 @@ package youtube
 import (
 	"fmt"
 	"os/exec"
-	_ "os/exec"
 )
 
 type Youtube struct {
